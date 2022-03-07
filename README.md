@@ -1,2 +1,2 @@
 # intro_ml_notebooks
-copied or translated notebooks which are transcribed about ML, AI, Kaggle and so on..
+transcribed notebooks about ML, AI, Kaggle and so on..
